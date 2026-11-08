@@ -51,4 +51,4 @@ src/       fetch_data.py, check_data.py, make_charts.py, train_model.py, app.py
 Python, Pandas, Matplotlib, Seaborn, scikit-learn, Streamlit, NASA NeoWs API.
 
 ## Author
-Built by Haleema (HaleemaKhan005), an AI student.
+Built by Haleema Khan.
